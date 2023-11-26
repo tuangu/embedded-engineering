@@ -170,8 +170,8 @@ _________________
 
 #### Principles of Electric Circuits
 
+- [👶 Lessons in Electric Circuits (All About Circuits)](https://www.allaboutcircuits.com/textbook/)
 - [👶 💎 Electronics Tutorials](https://www.electronics-tutorials.ws)
-- [👶 Lessons in Electric Circuits](https://www.allaboutcircuits.com/textbook/)
 - [👶 💎 Fundamentals of Electric Circuits - Charles K. Alexander, Matthew Sadiku](https://www.amazon.com/dp/1260226409?ref_=cm_sw_r_cp_ud_dp_Q11YHXNY2BK530RQZC4S)
 - [👶 💎 Principles of Electric Circuits: Conventional Current Version -  Thomas L Floyd, David M. Buchla](https://a.co/d/32T2t2X)
 - [💎 Basic Circuit Theory I (By Prof. Razavi) (YouTube Playlist)](https://www.youtube.com/playlist?list=PL9KyzjPFbwH37w22z-UHVEt37pdJHjZ7x)
@@ -343,10 +343,10 @@ _________________
 - [👶 C Programming for Beginners | Full Course](https://www.youtube.com/watch?v=ssJY5MDLjlo)
 - [C Programming Tutorials (YouTube Playlist)](https://www.youtube.com/playlist?list=PLA1FTfKBAEX4hblYoH6mnq0zsie2w6Wif)
 - [💎 The C Programming Language -  Brian W. Kernighan, Dennis M. Ritchie ](https://www.amazon.com/dp/0131103628?ref_=cm_sw_r_cp_ud_dp_KRZ8M1WTXWVG0HMSRBXA)
-- [newlib C Library Documentation](https://sourceware.org/newlib/docs.html)
-- [The GNU C Library (glibc)](https://www.gnu.org/software/libc/documentation.html)
 - [C How to Program -  Paul Deitel, Harvey Deitel ](https://deitel.com/c-how-to-program-9-e/)
 - [Effective C - An Introduction to Professional C Programming - Robert C. Seacord](https://nostarch.com/Effective_C)
+- [newlib C Library Documentation](https://sourceware.org/newlib/docs.html)
+- [The GNU C Library (glibc)](https://www.gnu.org/software/libc/documentation.html)
 - [From Zero to main(): Bare metal C](https://interrupt.memfault.com/blog/zero-to-main-1)
 - [From Zero to main(): Bootstrapping libc with Newlib](https://interrupt.memfault.com/blog/boostrapping-libc-with-newlib)
 
@@ -356,6 +356,7 @@ _________________
 - [C++ On Embedded Systems](https://blog.mbedded.ninja/programming/languages/c-plus-plus/cpp-on-embedded-systems/)
 - [👶 C++ Tutorial for Beginners - Full Course](https://www.youtube.com/watch?v=vLnPwxZdW4Y)
 - [C++ by The Cherno (YouTube Playlist)](https://youtube.com/playlist?list=PLlrATfBNZ98dudnM48yfGUldqGD0S4FFb)
+- [Effective Modern C++ - Scott Meyers](https://www.oreilly.com/library/view/effective-modern-c/9781491908419/)
 
 #### Assembly
 
@@ -746,6 +747,7 @@ _________________
 - [UDP doesn't suck! It's the BEST L4 protocol for THESE types of applications...](https://www.youtube.com/watch?v=LaDRWycC7Iw)
 - [Networking tutorial - Ben Eater (YouTube Playlist)](https://www.youtube.com/playlist?list=PLowKtXNTBypH19whXTVoG3oKSuOcw_XeW)
 - [💎 Hands-On Network Programming with C - Lewis Van Winkle](https://www.amazon.com/exec/obidos/ASIN/1789349869/aoeu-20)
+- [💎 Network Algorithmics - George Varghese, Jun Xu](https://www.oreilly.com/library/view/network-algorithmics-2nd/9780128099865/)
 - [tcpdump & libpcap libraries](https://www.tcpdump.org/)
 - [lwIP - A Lightweight TCP/IP stack](https://savannah.nongnu.org/projects/lwip/)
 - [lwIP (ESP-IDF)](https://docs.espressif.com/projects/esp-idf/en/latest/esp32/api-guides/lwip.html)
@@ -889,12 +891,13 @@ _________________
 - [CUDA C++ Programming Guide](https://docs.nvidia.com/cuda/cuda-c-programming-guide/index.html)
 - [C++ Concurrency in Action - Anthony Williams](https://www.manning.com/books/c-plus-plus-concurrency-in-action)
 
-##### Inter Process Communication (IPC)
+##### Inter-Process Communication (IPC)
 
 - [Inter Process Communication (IPC)](https://www.scaler.com/topics/operating-system/inter-process-communication-in-os/)
 - [What Is Inter-Process Communication In Linux?](https://www.scaler.com/topics/ipc-in-linux/)
 - [Udemy – Linux Inter Process Communication (IPC) from Scratch in C](https://www.udemy.com/course/linuxipc/)
 - [Udemy – Multi-Threading and IPC with Qt 5 C++](https://www.udemy.com/course/multi-threading-and-ipc-with-qt-c-plus-plus/)
+- [D-Bus Tutorial](https://dbus.freedesktop.org/doc/dbus-tutorial.html)
 
 ##### Qt Framework
 
