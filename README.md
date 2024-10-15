@@ -81,6 +81,7 @@ Engaging in hands-on projects is the most effective approach to learning. Rather
 Don't try to build a complex project right away. Start with small, manageable projects to get your feet wet.
 
 - [🔗 Random Nerd Tutorials | Learn ESP32, ESP8266, Arduino, and Raspberry Pi](https://randomnerdtutorials.com/)
+- [🔗 Last Minute Engineers](https://lastminuteengineers.com/)
 - [🔗 51 STM32 Projects & Tutorials for Beginners and Up - Hackster.io](https://www.hackster.io/stm32/projects)
 - [🔗 STM32 (STM32F103C8) Projects & Tutorials](https://circuitdigest.com/stm32-projects-and-tutorials)
 - [🔗 ElectronicWings Projects](https://www.electronicwings.com/projects)
@@ -98,6 +99,7 @@ Use search engines to find the answers to your questions.
 
 If you can't find what you're looking for using search engines, AI chatbots can also provide assistance. Keep in mind that AI may provide incorrect answers in some cases. It's best to confirm any answers with more reliable references.
 
+- [🔗 DuckDuckGo AI Chat](https://duckduckgo.com/?q=DuckDuckGo&ia=chat)
 - [🔗 Microsoft Copilot](https://copilot.microsoft.com)
 - [🔗 Google Gemini](https://gemini.google.com)
 - [🔗 ChatGPT](https://chat.openai.com)
@@ -113,7 +115,6 @@ If you have reservations about relying on AI advice alone, you can also ask your
 
 You may have heard that YouTube is a university. And it's true - there is an extensive amount of invaluable free content on embedded systems available on YouTube. You'll also find some excellent free courses through Coursera and EdX. Additionally, Udemy offers some high-quality paid course options.
 
-- [🎞️ Embedded Systems, in Pyjama!](https://www.youtube.com/@inpyjama)
 - [🎞️ DigiKey (YouTube Channel)](https://www.youtube.com/@digikey)
 - [🎞️ Coursera - Introduction to Embedded Systems Software and Development Environments](https://www.coursera.org/learn/introduction-embedded-systems)
 - [🎞️ Coursera - Embedded Software and Hardware Architecture](https://www.coursera.org/learn/embedded-software-hardware)
@@ -125,6 +126,8 @@ You may have heard that YouTube is a university. And it's true - there is an ext
 - [🎞️ Embedded Systems - Jacob Sorber (YouTube Playlist)](https://www.youtube.com/playlist?list=PL9IEJIKnBJjEcPAz6fss-Hx0TLytCOMVC)
 - [🎞️ edX - Embedded Systems - Shape The World: Microcontroller Input/Output](https://learning.edx.org/course/course-v1:UTAustinX+UT.6.10x+3T2022/home)
 - [🎞️ edX - Embedded Systems - Shape The World: Multi-Threaded Interfacing](https://www.edx.org/learn/computer-programming/the-university-of-texas-at-austin-embedded-systems-shape-the-world-multi-threaded-in)
+- [🎞️ Embedded Systems, in Pyjama!](https://www.youtube.com/@inpyjama)
+- [🎞️ Low Byte Productions](https://www.youtube.com/@lowbyteproductions)
 
 ### 🕹️ Arduino
 
@@ -133,6 +136,7 @@ If you do not have any background in programming the embedded systems, Arduino b
 Additionally, the [Arduino Core](https://github.com/arduino/ArduinoCore-API) takes care of most of the low-level hardware-associated operations that you, as an embedded engineer, should be able to handle yourself or at least have a clear understanding of. If you want to become a professional embedded developer, you should be able to effectively use industry-standard APIs and SDKs provided and approved by microcontroller vendors, such as CMSIS for ARM Cortex-M microcontrollers, STM32Cube for STM32, ESP-IDF for Espressif microcontrollers, etc.
 
 - [🔗 Getting Started with Arduino](https://docs.arduino.cc/learn/starting-guide/getting-started-arduino)
+- [🎞️ All New Arduino R4 WiFi LESSONS for Absolute Beginners (YouTube Playlist)](https://www.youtube.com/playlist?list=PLGs0VKk2DiYyn0wN335MXpbi3PRJTMmex)
 - [🎞️ New Arduino Tutorials (YouTube Playlist)](https://youtube.com/playlist?list=PLGs0VKk2DiYw-L-RibttcvK-WBZm8WLEP)
 - [🎞️ Arduino in a commercial product?](https://www.youtube.com/watch?v=c5LzsqeSCAc)
 - [🎞️ Arduino Project to Product (YouTube Playlist)](https://www.youtube.com/playlist?list=PLEBQazB0HUyQd6Fsf5NQ75M9llbi1_j_8)
@@ -307,6 +311,7 @@ Breadboarding is a hands-on approach to prototyping circuits, providing a versat
 - [🎞️💎 9 Simple Tricks to Improve EMC / EMI on Your Boards - Practical examples (with Min Zhang)](https://www.youtube.com/watch?v=Lf51sx6sC0I)
 - [🎞️💎 Many EMC Tips to Help You Design Better PCB Boards (with Keith Armstrong)](https://www.youtube.com/watch?v=gHF5JyJF-N4)
 - [🔗 LearnEMC - EMC Resources](https://learnemc.com/emc-resources)
+- [🔗 A Better Way to Build PCBs - Flux AI](https://www.flux.ai/p/)
 
 #### 🔵 Soldering / Rework
 
@@ -345,6 +350,7 @@ Mastering programming fundamentals and software development principles is essent
 - [🎞️ Udemy – Embedded Systems State Machines & Data Structures](https://www.udemy.com/course/embedded-systems-state-machines-data-structures-like-a-pro/)
 - [🔗 Data Structures in C](https://www.sanfoundry.com/c-programming-examples-data-structures/)
 - [🎞️ Data Structures - Full Course Using C and C++](https://www.youtube.com/watch?v=B31LgI4Y4DQ)
+- [🔗 Hello Algo](https://www.hello-algo.com/en/)
 
 #### 🔵 Design Patterns
 
@@ -438,6 +444,7 @@ Low-level languages like C and assembly provide direct hardware access, enabling
 - [📝 From Zero to main(): Bare metal Rust](https://interrupt.memfault.com/blog/zero-to-main-rust-1)
 - [📝 Writing an OS in Rust - Philipp Oppermann's blog](https://os.phil-opp.com/)
 - [📝 Kernel Driver with Rust in 2022](https://not-matthias.github.io/posts/kernel-driver-with-rust/)
+- [🔗 Rustlings - Small exercises to get you used to reading and writing Rust code!](https://rustlings.cool/)
 
 #### 🔵 Zig
 
@@ -934,6 +941,7 @@ Embedded systems can be programmed with either an operating system (OS) or direc
 - [📘💎 Operating Systems: Three Easy Pieces -  Remzi H Arpaci-Dusseau, Andrea C Arpaci-Dusseau](https://pages.cs.wisc.edu/~remzi/OSTEP/)
 - [📘💎 Modern Operating Systems - Andrew S. Tanenbaum, Herbert Bos](https://www.pearson.com/en-us/subject-catalog/p/modern-operating-systems/P200000003295)
 - [📝 Writing an OS in Rust - Philipp Oppermann's blog](https://os.phil-opp.com/)
+- [🔗 Operating System development tutorials in Rust on the Raspberry Pi](https://github.com/rust-embedded/rust-raspberrypi-OS-tutorials)
 
 #### 🔵 Real-Time Operating Systems
 
@@ -946,7 +954,7 @@ Real-time operating systems (RTOS) are specialized operating systems designed to
 - [📝 The Pros and Cons of RTOS vs Bare Metal: Which Will You Choose?](https://medium.com/@lanceharvieruntime/the-pros-and-cons-of-rtos-vs-bare-metal-which-will-you-choose-756e33ba6df7)
 - [📝 FreeRTOS vs Linux for Embedded Systems](https://www.bytesnap.com/news-blog/freertos-vs-linux-embedded-systems/)
 - [🔗 Real-Time Systems Concepts](https://micrium.atlassian.net/wiki/spaces/osiidoc/pages/163855/Real-Time+Systems+Concepts)
-- [🔗 RTOS Fundamentals](https://www.freertos.org/implementation/a00002.html)
+- [🔗 RTOS Fundamentals](https://www.freertos.org/Documentation/01-FreeRTOS-quick-start/01-Beginners-guide/01-RTOS-fundamentals)
 - [📝 A Simple Scheduler via an Interrupt-driven Actor Model](https://interrupt.memfault.com/blog/hardware-actor-scheduler)
 - [📝 ARM Cortex-M RTOS Context Switching](https://interrupt.memfault.com/blog/cortex-m-rtos-context-switching)
 - [🎞️ RTOS (YouTube Playlist)](https://www.youtube.com/playlist?list=PLPW8O6W-1chyrd_Msnn4LD6LBs2slJITs)
@@ -1065,6 +1073,7 @@ Embedded Linux is a specialized version of the Linux operating system tailored f
 - [🎞️ Udemy – Embedded Linux using Yocto](https://www.udemy.com/course/embedded-linux-using-yocto/)
 - [📘💎 Embedded Linux Systems with the Yocto Project - Rudolf J.Streif](https://www.oreilly.com/library/view/embedded-linux-systems/9780133443301/)
 - [📘 Embedded Linux Development using Yocto Project Cookbook - Alex Gonzalez](https://www.oreilly.com/library/view/embedded-linux-development/9781788399210/)
+- [📘 Bootlin Embedded Linux, Kernel, drivers, Yocto, Buildroot and Graphics Training](https://bootlin.com/training/)
 
 ##### 🔶 Multithreading & Parallel Processing
 
@@ -1236,6 +1245,7 @@ Testing is an integral part of the embedded systems development process, ensurin
 - [📝 Embedded C/C++ Unit Testing with Mocks](https://interrupt.memfault.com/blog/unit-test-mocking)
 - [🔗 Unit Testing for C (especially Embedded Software)](http://www.throwtheswitch.org/unity)
 - [🔗 GoogleTest - Google Testing and Mocking Framework](https://github.com/google/googletest)
+- [🔗 Catch2 - A modern, C++-native, test framework for unit-tests](https://github.com/catchorg/Catch2)
 - [🔗 pytest-embedded](https://docs.espressif.com/projects/pytest-embedded/en/latest/)
 - [📝 Introduction to testing ESP32 code with Pytest](https://blog.gistre.epita.fr/posts/brice.parent-2023-09-11-introduction_to_testing_esp32_code_with_pytest/)
 - [📘 Unit Testing Principles, Practices, and Patterns - Vladimir Khorikov](https://www.manning.com/books/unit-testing)
